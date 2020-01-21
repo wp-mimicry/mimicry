@@ -1,0 +1,26 @@
+{
+    "name": "mimicry/theme",
+    "description": "Mimicry theme",
+    "keywords": ["wordpress", "theme", "boilerplate", "mimicry"],
+    "homepage": "https://github.com/wp-mimicry/mimicry-framework",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stephan Nijman",
+            "email": "vanaf1979@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wp-mimicry/mimicry-framework/issues",
+        "source": "https://github.com/wp-mimicry/mimicry-framework"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "mimicry/framework": "^0.1.1"
+    },
+    "require-dev": {}
+}
