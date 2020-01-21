@@ -1,6 +1,7 @@
 {
     "name": "mimicry/theme",
     "description": "Mimicry theme",
+    "tyoe": "project",
     "keywords": ["wordpress", "theme", "boilerplate", "mimicry"],
     "homepage": "https://github.com/wp-mimicry/mimicry-framework",
     "license": "GPL-2.0-or-later",
