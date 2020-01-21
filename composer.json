@@ -3,7 +3,7 @@
     "description": "Mimicry theme",
     "type": "project",
     "keywords": ["wordpress", "theme", "boilerplate", "mimicry"],
-    "homepage": "https://github.com/wp-mimicry/mimicry-framework",
+    "homepage": "https://github.com/wp-mimicry/mimicry",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/wp-mimicry/mimicry-framework/issues",
-        "source": "https://github.com/wp-mimicry/mimicry-framework"
+        "issues": "https://github.com/wp-mimicry/mimicry/issues",
+        "source": "https://github.com/wp-mimicry/mimicry"
     },
     "autoload": {
         "psr-4": {
